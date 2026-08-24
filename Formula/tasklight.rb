@@ -1,8 +1,8 @@
 class Tasklight < Formula
   desc "Terminal task runner with desktop notifications"
   homepage "https://github.com/revazi/tasklight"
-  url "https://github.com/revazi/tasklight/releases/download/v0.2.0/tasklight-v0.2.0-source.tar.gz"
-  sha256 "c38260dc86cdde68c48e84c9dfb36e1bbecbc93e3900826b1eb9fd2a4a1746f7"
+  url "https://github.com/revazi/tasklight/releases/download/v0.2.1/tasklight-v0.2.1-source.tar.gz"
+  sha256 "d046fdb55a4e458671e3048480bb5a962e4102c8ccde5454fdec148e9637d053"
   license "MIT"
   head "https://github.com/revazi/tasklight.git", branch: "main"
 
